@@ -18,7 +18,7 @@ Other key tools used include:<br>
 <br>
 Visit http://127.0.0.1/docs to view documentation and test your API.<br>
 <br>
-#Inspired by <br>
+## Inspired by
 https://fastapi.tiangolo.com/tutorial/testing/#testing-extended-example<br>
 https://spectrum.chat/zeit/now/any-examples-of-using-python-fastapi-with-zeit-now-v2~c3c3c44b-4d75-4417-9ec4-1d00f6db9163<br>
 https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4<br>

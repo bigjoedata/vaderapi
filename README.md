@@ -14,7 +14,7 @@ Other key tools used include:<br>
 `docker build --file Dockerfile --tag simplevader .`<br>
 <br>
 <b>Then you can run with</b><br>
-`docker run -p 24601:24601 vade`r<br>
+`docker run -p 24601:24601 vader`<br>
 <br>
 Visit http://127.0.0.1/docs to view documentation and test your API.<br>
 <br>

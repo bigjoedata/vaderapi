@@ -1,6 +1,6 @@
 # vaderapi
 
-A simple [Python](https://www.python.org/) API for [VADER Sentiment Analysis](https://github.com/cjhutto/vaderSentiment) by [cjhutto](https://github.com/cjhutto).<br>
+A simple [Python](https://www.python.org/) API for [VADER Sentiment Analysis](https://github.com/cjhutto/vaderSentiment)<br>
 <br>
 Other key tools used include:<br>
 [FAST API](https://github.com/tiangolo/fastapi)<br>

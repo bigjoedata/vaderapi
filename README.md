@@ -4,17 +4,17 @@ A simple [Python](https://www.python.org/) API for [VADER Sentiment Analysis](ht
 <br>
 Other key tools used include:<br>
 [FAST API](https://github.com/tiangolo/fastapi)<br>
+[Docker](https://www.docker.com/)<br>
 [Pydantic](https://pydantic-docs.helpmanual.io/)<br>
 [Loguru](https://github.com/Delgan/loguru)<br>
 [Gunicorn](https://gunicorn.org/)<br>
 [Requests](https://requests.readthedocs.io/en/master/)<br>
 <br>
-<br>
-<b>To build Dockerimage, use</b><br>
-docker build --file Dockerfile --tag simplevader .<br>
+<b>To build Dockerimage, clone this repository, [install Docker](https://docs.docker.com/install/), then run the following:</b><br>
+`docker build --file Dockerfile --tag simplevader .`<br>
 <br>
 <b>Then you can run with</b><br>
-docker run -p 24601:24601 vader<br>
+`docker run -p 24601:24601 vade`r<br>
 <br>
 Visit http://127.0.0.1/docs to view documentation and test your API.<br>
 <br>

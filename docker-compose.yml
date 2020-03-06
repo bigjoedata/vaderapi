@@ -1,0 +1,11 @@
+version: "3"
+services:
+  vader:
+    container_name: vader
+    image: vader
+    ports:
+      - '24601:24601'
+    volumes:
+      - ./logs:/home/vader/app/data
+    networks:
+      - default

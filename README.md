@@ -16,6 +16,9 @@ Other key tools used include:<br>
 <b>Then you can run with</b><br>
 `docker run -p 24601:24601 vader`<br>
 <br>
+<b>Alternatively, install [Docker Compose](https://docs.docker.com/compose/) and run with</b><br>
+`docker-compose up -d`<br>
+<br>
 Visit http://127.0.0.1/docs to view documentation and test your API.<br>
 <br>
 ## Inspired by
